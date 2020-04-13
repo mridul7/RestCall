@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2780fad-5947-49f3-bad5-e6ecae432e56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RestCalls" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RestCalls" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RestCalls" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RestCalls" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RestCalls" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aKgw7IFmI57wiSaJz5LXQWR1JT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager" selected="Gradle.RestCalls [bootRun]">
+    <configuration name="RestCalls [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RestCalls [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RestCalls [build]" />
+        <item itemvalue="Gradle.RestCalls [bootRun]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2780fad-5947-49f3-bad5-e6ecae432e56" name="Default Changelist" comment="" />
+      <created>1586489934460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586489934460</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="412" width="800" height="677" key="#HTTP_Proxy" timestamp="1586505557742">
+      <screen x="67" y="27" width="1853" height="1413" />
+    </state>
+    <state x="583" y="412" width="800" height="677" key="#HTTP_Proxy/67.27.1853.1413@67.27.1853.1413" timestamp="1586505557742" />
+    <state x="796" y="352" width="424" height="513" key="FileChooserDialogImpl" timestamp="1586505546743">
+      <screen x="67" y="27" width="1853" height="1413" />
+    </state>
+    <state x="796" y="352" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1413@67.27.1853.1413" timestamp="1586505546743" />
+    <state width="1853" height="392" key="GridCell.Tab.0.bottom" timestamp="1586600505718">
+      <screen x="67" y="27" width="1853" height="1413" />
+    </state>
+    <state width="1853" height="392" key="GridCell.Tab.0.bottom/67.27.1853.1413@67.27.1853.1413" timestamp="1586600505718" />
+    <state width="1853" height="392" key="GridCell.Tab.0.center" timestamp="1586600505716">
+      <screen x="67" y="27" width="1853" height="1413" />
+    </state>
+    <state width="1853" height="392" key="GridCell.Tab.0.center/67.27.1853.1413@67.27.1853.1413" timestamp="1586600505716" />
+    <state width="1853" height="392" key="GridCell.Tab.0.left" timestamp="1586600505714">
+      <screen x="67" y="27" width="1853" height="1413" />
+    </state>
+    <state width="1853" height="392" key="GridCell.Tab.0.left/67.27.1853.1413@67.27.1853.1413" timestamp="1586600505714" />
+    <state width="1853" height="392" key="GridCell.Tab.0.right" timestamp="1586600505717">
+      <screen x="67" y="27" width="1853" height="1413" />
+    </state>
+    <state width="1853" height="392" key="GridCell.Tab.0.right/67.27.1853.1413@67.27.1853.1413" timestamp="1586600505717" />
+    <state x="302" y="325" width="1372" height="815" key="new project wizard" timestamp="1586600494160">
+      <screen x="67" y="27" width="1853" height="1413" />
+    </state>
+    <state x="302" y="325" width="1372" height="815" key="new project wizard/67.27.1853.1413@67.27.1853.1413" timestamp="1586600494160" />
+    <state x="657" y="343" key="run.anything.popup" timestamp="1586501407315">
+      <screen x="67" y="27" width="1853" height="1413" />
+    </state>
+    <state x="657" y="343" key="run.anything.popup/67.27.1853.1413@67.27.1853.1413" timestamp="1586501407315" />
+    <state x="656" y="347" width="672" height="678" key="search.everywhere.popup" timestamp="1586491973098">
+      <screen x="67" y="27" width="1853" height="1413" />
+    </state>
+    <state x="656" y="347" width="672" height="678" key="search.everywhere.popup/67.27.1853.1413@67.27.1853.1413" timestamp="1586491973098" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/build.gradle</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
